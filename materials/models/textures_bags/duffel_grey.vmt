@@ -1,0 +1,8 @@
+"VertexLitGeneric"
+{
+
+	$basetexture "models/textures_bags/duffel_grey_d"
+	$bumpmap "models/textures_bags/duffel_n"
+
+
+}
